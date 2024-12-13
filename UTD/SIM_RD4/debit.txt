@@ -1,4 +1,4 @@
 # Fichier des débits des pompes pour la station de pompage
-P1=10.0 P2=12.0 P3=15.0 P4=18.0
+P1=87.0 P2=80.0 P3=70.0 P4=19.0
 P12=20.0 P13=22.0 P14=25.0 P23=27.0 P24=30.0 P34=33.0
 P123=45.0 P234=50.0 P134=48.0 P124=47.0 P1234=60.0
