@@ -1,0 +1,2 @@
+variable1=123
+variable2=456
